@@ -1,0 +1,1 @@
+# Since the package "python-constrain" does not support python 3.12, exc. from this AV are in a new Project Called Constrains-Python
